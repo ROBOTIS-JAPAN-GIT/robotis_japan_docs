@@ -1,2 +1,2 @@
-# robotis_japan_docs
-The Document created by Japan branch.
+# ROBOTIS JAPAN wiki
+ロボティズ日本支店が作成したドキュメントを配置しています。
