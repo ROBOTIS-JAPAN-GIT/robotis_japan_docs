@@ -60,7 +60,7 @@ $ gnome-disks
 
 [Using GNOME Disks](https://www.youtube.com/embed/V_6GNyL6Dac)
 
-### 4.2. 必要なファイルをコピー
+#### 4.2. 必要なファイルをコピー
 #### 4.2.1. PI_BOOTへのコピー
 取得した firmware-master/boot の以下のファイルをPI_BOOTへコピーする。
 - bootcode.bin
