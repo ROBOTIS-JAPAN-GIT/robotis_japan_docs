@@ -30,14 +30,14 @@ boot
 rootfs
 - /lib/modules/*-v7+
 - /lib/firmware/brcm
-### 2. 使用環境
+### 3. 使用環境
 - Linux PC(Ubuntu 16.04.5 LTS)
 - Raspberry Pi 3 Model B+
 - SDカード(16GB)
 - Raspberry Pi用の電源 5V 3.0A(AD-K50P300)
 
-### 3. 手順
-#### 3.1. UbuntuMATEのイメージ作成
+### 4. 手順
+#### 4.1. UbuntuMATEのイメージ作成
 以下のリンクからUbuntuMATEのイメージをダウンロードする。
 <br>
 [Ubuntu MATE 16.04.2(Xenial)](https://ubuntu-mate.org/download/)
@@ -60,8 +60,8 @@ $ gnome-disks
 
 [Using GNOME Disks](https://www.youtube.com/embed/V_6GNyL6Dac)
 
-### 3.2. 必要なファイルをコピー
-#### 3.2.1. PI_BOOTへのコピー
+### 4.2. 必要なファイルをコピー
+#### 4.2.1. PI_BOOTへのコピー
 取得した firmware-master/boot の以下のファイルをPI_BOOTへコピーする。
 - bootcode.bin
 - fixup.dat
@@ -76,16 +76,16 @@ $ cp kernel7.img /media/user_name/PI_BOOT/
 $ cp bcm2710-rpi-3-b-plus.dtb /media/user_name/PI_BOOT/
 ```
 
-#### 3.2.2. PI_ROOTへのコピー
+#### 4.2.2. PI_ROOTへのコピー
 取得した firmware-master/modules/*-v7+ を PI_ROOT/lib/modules にコピーする。
 ```
 $ cp -r *-v7+/ /media/user_name/PI_ROOT/lib/modules/
 $ cp -r brcm /media/user_name/PI_ROOT/lib/firmware
 ```
-### 4. おわりに
+### 5. おわりに
 上記の手順で作成したイメージでUbuntuMATEが起動できる。
 
-### 5. 参考
+### 6. 参考
 [Ubuntu image for the new Raspberry Pi 3 B+](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=208538)
 <br>
 [[SOLVED] Raspberry Pi 3 B+ Wifi NIC not found](https://www.linuxquestions.org/questions/slackware-arm-108/raspberry-pi-3-b-wifi-nic-not-found-4175627137/)
