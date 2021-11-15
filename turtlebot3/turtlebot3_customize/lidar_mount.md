@@ -52,6 +52,20 @@
   7.完成状態<br>
   ![image](https://user-images.githubusercontent.com/5852451/141725050-73f993f6-74aa-4fb1-854b-73bfb333d857.png)<br>
 <br>
+### ソフトウェアの修正 RPLidar A1M8
+#### 動作環境
+- TurtleBot3(waffle pi):Kinetic<br>
+  https://github.com/ROBOTIS-GIT/turtlebot3<br>
+- RP Lidar A1<br>
+  https://github.com/Slamtec/rplidar_ros<br>
+
+#### ソフトウェアの修正
+![image](https://user-images.githubusercontent.com/5852451/141726455-a762d06b-f1a6-48f0-9a57-4cecf35fc643.png)<br>
+※より正確に動作検証をする場合は、リモートPC側のturtlebot3_description/urdfを修正すること。<br>
+<br>
+- 上記の内容でTurtleBot3のSLAMが正常に動作することを確認しています。(24 Nov 2020)
+![image](https://user-images.githubusercontent.com/5852451/141726591-c67dbb4a-acc9-4870-b244-c00cdc2c46c1.png)<br>
+
 ### マウントのCADデータ配布と販売について
   問い合わせ先 : ロボティズ日本支店 japan@robotis.com
 
