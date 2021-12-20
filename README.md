@@ -1,5 +1,5 @@
-# ROBOTIS JAPAN wiki
-ロボティズ日本支店が作成した日本語Webドキュメントです。
+# ROBOTIS JAPAN Web documents
+ロボティズ日本支店(ROBOTIS Japan)が作成した日本語Webドキュメントです。
 # クイックリファレンス
 ## Turtlebot3
 
