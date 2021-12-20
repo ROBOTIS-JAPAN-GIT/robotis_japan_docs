@@ -18,6 +18,11 @@
 - [TrutleBot3MMセットアップ(google docs)](https://docs.google.com/document/d/1JL5fOms5Y5ZEeEQvWLYNF7SdCFxHs4aZHN9zpNv3feE/edit?usp=sharing)<br>
 内容：ソフトウェアセットアップと動作確認手順  
 
+### 関連情報
+- [TurtleBot3 MM eマニュアル(英語)](https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#manipulation)
+
+- [GIthub : ROBOTIS-GIT/turtlebot3_manipulation](https://github.com/ROBOTIS-GIT/turtlebot3_manipulation)
+
 
 
 
