@@ -15,7 +15,7 @@
 - [TurtleBot3MMクイックスタート.pdf](https://github.com/ROBOTIS-JAPAN-GIT/robotis_japan_docs/blob/master/turtlebot3/turtlebot3mm/TurtleBot3MM%E3%81%AE%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6(%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88).pdf)<br>
 内容：ハードウェアやバッテリー、充電器などの取扱いに関する説明と注意事項
 
-- [TrutleBot3MMセットアップ(google docs)](https://docs.google.com/document/d/1JL5fOms5Y5ZEeEQvWLYNF7SdCFxHs4aZHN9zpNv3feE/)<br>
+- [tleBot3MMセットアップ(google docs)](https://docs.google.com/document/d/1JL5fOms5Y5ZEeEQvWLYNF7SdCFxHs4aZHN9zpNv3feE/)<br>
 内容：ソフトウェアセットアップと動作確認手順  
 
 ### 関連情報
